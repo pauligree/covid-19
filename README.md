@@ -1,2 +1,3 @@
 # covid-19
-stuff about coronavirus pandemy
+Dati estrapolati dai bollettini della Regione Autonoma Valle d'Aosta
+https://www.regione.vda.it/pressevda/Eventi/coronavirus_i.aspx
