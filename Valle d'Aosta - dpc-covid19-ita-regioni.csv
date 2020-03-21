@@ -1,4 +1,4 @@
-data,stato,codice_regione,denominazione_regione,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,dimessi_guariti,deceduti,tamponi,tamponi_negativi,totale_attualmente_positivi,totale_casi,tamponi_in_attesa,persone_in_isolamento,nuovi_attualmente_positivi,rif_exp
+date,stato,codice_regione,denominazione_regione,ricoverati_con_sintomi,terapia_intensiva,totale_ospedalizzati,isolamento_domiciliare,dimessi_guariti,deceduti,tamponi,tamponi_negativi,totale_attualmente_positivi,totale_casi,tamponi_in_attesa,persone_in_isolamento,nuovi_attualmente_positivi,rif_exp
 2020-03-09 13:00,ITA,2,Valle d'Aosta,2,0,2,13,0,0,60,24,15,15,21,110,15,15
 2020-03-09 18:00,ITA,2,Valle d'Aosta,3,0,3,12,0,0,73,25,15,15,33,144,0,16
 2020-03-10 13:00,ITA,2,Valle d'Aosta,3,0,3,14,0,0,79,27,17,17,35,159,2,18
