@@ -27,4 +27,3 @@ date,stato,codice_regione,denominazione_regione,ricoverati_con_sintomi,terapia_i
 2020-03-21 13:00,ITA,2,Valle d'Aosta,60,15,75,221,0,8,882,335,296,304,243,2328,38,333
 2020-03-21 18:00,ITA,2,Valle d'Aosta,62,15,77,227,0,9,884,359,304,313,212,2327,8,399
 2020-03-22 13:00,ITA,2,Valle d'Aosta,64,18,82,272,0,9,934,390,354,363,181,2406,50,481
-,,,,,,,,,,,,,,,,,582
